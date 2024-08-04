@@ -8,13 +8,13 @@ export default function Home() {
           <span className="relative overflow-hidden rounded-full p-[1px]">
             <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#171717_0%,#737373_50%,#171717_100%)]" />
             <div className="select-none rounded-full bg-black px-3 py-1 text-xs font-medium leading-5 text-slate-200 backdrop-blur-xl">
-              I&apos;m almost there
+              It&apos;s done
             </div>
           </span>
         </div>
 
         <h2 className="text-center text-3xl font-medium text-gray-50 sm:text-6xl">
-          New project loading...
+          New project&apos;s live!
         </h2>
 
         <p className="text-center text-lg leading-6 text-gray-200">
