@@ -1,19 +1,19 @@
 /** @type {import('prettier').Options} */
 export default {
-  "importOrder": [
+  importOrder: [
     "^~/components/(.*)$",
     "^~/hooks/(.*)$",
     "^~/lib/(.*)$",
     "^~/routes/(.*)$",
     "^~/styles/(.*)$",
     "^~/utils/(.*)$",
-    "^[./]"
+    "^[./]",
   ],
-  "importOrderSeparation": true,
-  "importOrderSortSpecifiers": true,
+  importOrderSeparation: true,
+  importOrderSortSpecifiers: true,
 
-  "plugins": [
+  plugins: [
     "@trivago/prettier-plugin-sort-imports",
-    "prettier-plugin-tailwindcss"
-  ]
+    "prettier-plugin-tailwindcss",
+  ],
 };

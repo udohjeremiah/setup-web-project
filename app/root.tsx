@@ -5,9 +5,9 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
- 
+
 import "./tailwind.css";
- 
+
 export default function Root() {
   return (
     <html lang="en">
