@@ -18,7 +18,7 @@
     "node": ">=20.0.0"
   },
   "dependencies": {
-    "@remix-run/node": "^2.11.0",
+    "@remix-run/node": "^2.11.2",
     "@remix-run/react": "^2.11.0",
     "@remix-run/serve": "^2.11.0",
     "isbot": "^4.4.0",
